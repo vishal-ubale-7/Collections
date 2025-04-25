@@ -6,36 +6,36 @@ public class LearnArrayList
 {
     public static void main(String[] args)
     {
-         /*ArrayList<Integer> student = new ArrayList<>();
+         ArrayList<Integer> student = new ArrayList<>();
          student.add(1);
          student.add(2);
          student.add(3);
          student.add(4);
          System.out.println(student);
          student.add(5);// add element
-
-         student.add(2 ,20); // add the new elements 2 index positions
-         System.out.print(student);
-
-        List<Integer> newList = new ArrayList<>();
-        newList.add(11);
-        newList.add(12);
-        student.addAll(newList); // add the new list
-        System.out.println(student);
-
-
-        System.out.println(student.get(3));// get the value using mentions index number
-        */
-
-        ArrayList<Integer> list = new ArrayList<>();
-        list.add(10);
-        list.add(20);
-        list.add(30);
-        list.add(40);
-        list.add(50);
-        list.add(50);
-        list.add(70);
-        System.out.println(list);
+//
+//         student.add(2 ,20); // add the new elements 2 index positions
+//         System.out.print(student);
+//
+//        List<Integer> newList = new ArrayList<>();
+//        newList.add(11);
+//        newList.add(12);
+//        student.addAll(newList); // add the new list
+//        System.out.println(student);
+//
+//
+//        System.out.println(student.get(3));// get the value using mentions index number
+//
+//
+//        ArrayList<Integer> list = new ArrayList<>();
+//        list.add(10);
+//        list.add(20);
+//        list.add(30);
+//        list.add(40);
+//        list.add(50);
+//        list.add(50);
+//        list.add(70);
+//        System.out.println(list);
 
        /*
          Use For Loop
